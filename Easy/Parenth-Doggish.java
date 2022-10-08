@@ -1,3 +1,4 @@
+// This program can decide if a string has balanced parenthesis and if the word "dog" is in a "doggish" context
 import java.util.Scanner;
 
 public class Parentheses{
